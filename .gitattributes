@@ -1,2 +1,3 @@
 *.js linguist-dominant-language=JavaScript
 *.css linguist-documentation
+*.html linguist-documentation
